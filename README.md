@@ -1,5 +1,7 @@
 # Web-Lab-2
 
+<b>Посилання на GitHub Pages:</b> https://nazaryimontytskyi.github.io/Web-Lab-2/
+
 <b>1. Головна сторінка за допомогою Flexbox верстки</b><br><br>
 <img src = "images/flex-box.jpg">
 <b>2. Головна сторінка за допомогою GridCSS верстки</b><br><br>
